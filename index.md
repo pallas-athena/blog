@@ -8,8 +8,10 @@ site_author: David Pollak
 ---
 
 <div class="hero-unit">
-  A blog created by [David](https://twitter.com/dpp) [Pollak](http://blog.goodstuff.im) dedicated to
+<h3>
+  A blog created by <a href="https://twitter.com/dpp">David</a> <a href="http://blog.goodstuff.im">Pollak</a> dedicated to
 wisdom, courage, inspiration, civilization, law and justice, strength, strategy, the arts, crafts, and skill.
+</h3>
 </div>
 
 <ul class="posts" style="list-style: none" data-lift="blog.posts?max=15">
