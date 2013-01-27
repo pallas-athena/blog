@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-blog_root: /
+blog_root: /posts
 site_title: Athena
 site_author: David Pollak
 
