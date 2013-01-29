@@ -11,3 +11,12 @@ Licensed [Creative Commons BY-SA](http://creativecommons.org/licenses/by-sa/3.0/
 Published at [http://athena.com](http://athena.com) and hosted at [https://github.com/pallas-athena/blog](https://github.com/pallas-athena/blog).
 
 If you want to contribute, submit a pull request.
+
+## athena.com
+
+No, athena.com is not for sale.  Really.  Even if your girlfriend's name is
+Athena.  Even if you have a cool start-up that you really can't tell me about
+but that would benefit from the domain.  Even if you are an entrepreneur like me.
+No, I'm not interested in discussing why.  Sorry for sounding like a jerk about it,
+but I get a couple of requests per week to sell the domain and I've been
+saying "no" for 16 years.  It's not likely that I'll say "yes" to you.
