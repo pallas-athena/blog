@@ -1,4 +1,4 @@
-title:	About 
+title:	About
 order:	20
 
 ## About Athena
@@ -19,4 +19,6 @@ Athena.  Even if you have a cool start-up that you really can't tell me about
 but that would benefit from the domain.  Even if you are an entrepreneur like me.
 No, I'm not interested in discussing why.  Sorry for sounding like a jerk about it,
 but I get a couple of requests per week to sell the domain and I've been
-saying "no" for 16 years.  It's not likely that I'll say "yes" to you.
+saying "no" for 20 years.  It's not likely that I'll say "yes" to you.
+
+And, really. Just don't ask.
